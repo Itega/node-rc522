@@ -10,7 +10,7 @@
     "rc522",
     "raspberry"
   ],
-  "version": "16.0.0",
+  "version": "16.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/mitchellparsons/rc522-rfid-promise.git"
