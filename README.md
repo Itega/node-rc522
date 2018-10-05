@@ -1,4 +1,4 @@
-#rc522-rfid
+# node-rc522
 Module to access an rfid reader with rc522 chipset connected to a raspberry pi. Using promises.
 
 ## Fork of
