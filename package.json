@@ -3,17 +3,17 @@
     "name": "Julien Zolli",
     "email": "julien.zolli@viacesi.fr"
   },
-  "name": "rc522-rfid-promise",
+  "name": "node-rc522",
   "description": "Module to access an rfid reader with rc522 chipset connected to a raspberry pi. Using promises.",
   "keywords": [
     "rfid",
     "rc522",
     "raspberry"
   ],
-  "version": "16.0.2",
+  "version": "16.0.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/itega/rc522-rfid-promise.git"
+    "url": "https://github.com/itega/node-rc522.git"
   },
   "main": "./main",
   "dependencies": {
